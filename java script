@@ -1,0 +1,8 @@
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+// Get the "Project 1" link
+var project1Link = document.querySelector("main section#projects ul li:first-child a");
+// Set the link's href to the desired URL
+project1Link.href = "https://gocoding.org/how-to-generate-an-api-key-for-chatgpt/";
+});
+</script>
